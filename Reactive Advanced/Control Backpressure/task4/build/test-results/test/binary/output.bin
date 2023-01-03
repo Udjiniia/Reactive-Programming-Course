@@ -1,0 +1,3 @@
+W11:46:15.334 [Test worker] DEBUG reactor.util.Loggers - Using Slf4j logging framework
+q11:46:15.799 [Test worker] DEBUG reactor.core.publisher.Operators - onNextDropped: TestStatistic{query='test0'}
+q11:46:15.801 [Test worker] DEBUG reactor.core.publisher.Operators - onNextDropped: TestStatistic{query='test4'}

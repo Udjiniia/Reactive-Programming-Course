@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestingTask2Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-15T14:05:10" hostname="DESKTOP-UM0F95L" time="0.239">
+  <properties/>
+  <testcase name="testSolution()" classname="TestingTask2Tests" time="0.239"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
